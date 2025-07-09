@@ -1,0 +1,8 @@
+streamlit
+boto3
+langchain
+transformers
+huggingface_hub
+torch
+newspaper3k
+python-dotenv
